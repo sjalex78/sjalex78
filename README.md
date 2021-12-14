@@ -10,3 +10,7 @@
 💬 Ask me about Canoe Polo
  📫 How to reach me: <sjalex78@gmail.com>
  ⚡ Fun fact: I name my doges after vegetables
+ 
+ >  **Follow my blog** <https://sarahjalexander.netlify.app/>
+
+>  **Portfolio Coming Soon......** <https://sarahjalexander.com/>
