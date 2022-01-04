@@ -14,3 +14,5 @@
  >  **Follow my blog** <https://sarahjalexander.netlify.app/>
 
 >  **Portfolio Coming Soon......** <https://sarahjalexander.com/>
+
+[![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjalex78&show_icons=true&theme=cobalt)](https://github.com/sjalex78/github-readme-stats)
