@@ -11,8 +11,8 @@
  - 📫 How to reach me: <sjalex78@gmail.com>
  - ⚡ Fun fact: I name my dogs after food plants currently we have Corriander and Kale
  
- >  **Follow my blog** <https://sarahjalexander.netlify.app/>
+ >  **Webpage** <https://sarahjalexander.netlify.app/>
 
->  **Portfolio Coming Soon......** <https://sarahjalexander.com/>
+>  **Exercism Profile Page......** <https://exercism.org/profiles/sjalex78>
 
 [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjalex78&show_icons=true&theme=cobalt)](https://github.com/sjalex78/github-readme-stats)
