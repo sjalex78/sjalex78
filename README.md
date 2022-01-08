@@ -5,7 +5,7 @@
 
  -  🔭 I’m currently working on a project named SCI_CODE and my professional portfolio
 - 🌱 I’m currently learning Ruby on Rails
-- 👯 I’m looking to collaborate on education tech idea SHE-SCI-CODE
+- 👯 I’m looking to collaborate on education tech idea SCI-CODE
 - 🤔 I’m looking for help to find a job
 - 💬 Ask me about Canoe Polo
  - 📫 How to reach me: <sjalex78@gmail.com>
