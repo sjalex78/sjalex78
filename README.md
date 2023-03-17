@@ -3,10 +3,10 @@
 ### Hi there 👋
 
 > A coding newby but as professional educator and scientist I am looking to fuse these three (Coding, Science and Education) in a meaningful and creative way.
-> - 🔭 I’m currently working on a project named SCI_CODE and my professional portfolio
-> - 🌱 I’m currently learning Ruby on Rails
-> - 👯 I’m looking to collaborate on education tech idea SCI-CODE
-> - 🤔 I start with Thoughtworks in May in the graduate program
+> - 🔭 I’m currently working on a project named change_notifier and my professional portfolio
+> - 🌱 I’m currently continuing learning Ruby on Rails
+> - 👯 I’m currently continuing learning React
+> - 🤔 I am looking for my next career adventure after 11 months with Thoughtworks as a graduate consultant
 > - 💬 Ask me about Canoe Polo
 > - 📫 How to reach me: <sjalex78@gmail.com>
 > - ⚡ Fun fact: I name my dogs after food plants currently we have Corriander and Kale
