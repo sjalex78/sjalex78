@@ -2,16 +2,9 @@
 
 ### Hi there 👋
 
-> A coding newby but as professional educator and scientist I am looking to fuse these three (Coding, Science and Education) in a meaningful and creative way.
-> - 🔭 I’m currently working on a project named change_notifier and my professional portfolio
-> - 🌱 I’m currently continuing learning Ruby on Rails, React and GraphQL
-> - 👯 I’m currently cworking for FatZebra :zebra:
-> - 💬 Ask me about Canoe Polo
+> I’m a full-stack developer with a background in science, education and technical research. I enjoy bringing these disciplines together to create thoughtful, accessible and genuinely useful technology
+> - 🧪 I’m passionate about testing, accessibility, security and maintainable engineering
+> - 🤖 I’m exploring practical ways to integrate AI into development, testing and team workflows
+> - 💬 Ask me about canoe polo—I’m an athlete, coach and former Australian representative
 > - 📫 How to reach me: <sjalex78@gmail.com>
 > - ⚡ Fun fact: I name my dogs after food plants currently we have Corriander and Kale
-
->  **Webpage** <https://sarahjalexander.com/>
-
->  **Exercism Profile Page......** <https://exercism.org/profiles/sjalex78>
-
-# [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjalex78&show_icons=true&theme=cobalt)](https://github.com/sjalex78/github-readme-stats)
